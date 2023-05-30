@@ -5,4 +5,7 @@ Create a C++ class called Arithmetic that has four member functions: add, subtra
 
 Each member function should take two integer arguments and return the result of the corresponding arithmetic operation.    
 
-The divide function should also check if the second argument is zero, and if it is, throw a std::runtime_error with the message "Cannot divide by zero.    
+The divide function should also check if the second argument is zero, and if it is, throw a std::runtime_error with the message "Cannot divide by zero.   
+
+## Output
+<img src = "https://github.com/adarsh-2425/C-Arithmetic-Class/blob/main/output3.png">
