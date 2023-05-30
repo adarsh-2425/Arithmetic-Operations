@@ -10,7 +10,6 @@ The divide function should also check if the second argument is zero, and if it 
 ## Compiling and Running
 ```
 g++ main.cpp arithmetic.cpp
-
 ./a.out
 ```
 
